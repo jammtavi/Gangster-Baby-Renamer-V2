@@ -21,7 +21,7 @@ async def upgrade(bot,update):
 	Price Rs 206  ind /🌎 2.5$  per Month
 	
 	
-	Pay Using Upi I'd ```7808912076@paytm```
+	Pay Using Upi I'd ```ajnagar@ybl```
 	
 	After Payment Send Screenshots Of 
         Payment To Admin @mRiderDM"""
